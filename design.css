@@ -12,6 +12,7 @@ text-align:center;
     align-content:center;
     text-align:center;
 }
-a:visited{
+
+a,a:visited{
     color:black;
 }
