@@ -1,4 +1,17 @@
 h1{
-    font-size:18px;
-    font-family:monospace,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:38px;
+    font-family:'monospace', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#title{
+justify-content: center;
+align-content:center;
+text-align:center;
+}
+#music{
+    justify-content: center;
+    align-content:center;
+    text-align:center;
+}
+a:visited{
+    color:black;
 }
